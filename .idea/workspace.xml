@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6863eaa-ff03-42a0-a660-40b96b1a11ac" name="Changes" comment="kalkulace 🤓">
-      <change afterPath="$PROJECT_DIR$/src/main/java/deleni/gui/MainFrame.java" afterDir="false" />
+    <list default="true" id="e6863eaa-ff03-42a0-a660-40b96b1a11ac" name="Changes" comment="frame">
+      <change afterPath="$PROJECT_DIR$/priklady.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/deleni/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deleni/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/deleni/gui/MainFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/deleni/gui/MainFrame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +37,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
@@ -82,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673956181148</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="frame">
+      <created>1673957092753</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673957092753</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -97,8 +107,10 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="start" />
     <MESSAGE value="kalkulace " />
-    <option name="LAST_COMMIT_MESSAGE" value="kalkulace " />
+    <MESSAGE value="frame" />
+    <option name="LAST_COMMIT_MESSAGE" value="frame" />
   </component>
 </project>
