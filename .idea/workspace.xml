@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6863eaa-ff03-42a0-a660-40b96b1a11ac" name="Changes" comment="start">
-      <change afterPath="$PROJECT_DIR$/src/main/java/deleni/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/deleni/model/PrikladDeleni.java" afterDir="false" />
+    <list default="true" id="e6863eaa-ff03-42a0-a660-40b96b1a11ac" name="Changes" comment="kalkulace 🤓">
+      <change afterPath="$PROJECT_DIR$/src/main/java/deleni/gui/MainFrame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673955122282</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="kalkulace 🤓">
+      <created>1673956181148</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673956181148</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -94,6 +98,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start" />
-    <option name="LAST_COMMIT_MESSAGE" value="start" />
+    <MESSAGE value="kalkulace " />
+    <option name="LAST_COMMIT_MESSAGE" value="kalkulace " />
   </component>
 </project>
